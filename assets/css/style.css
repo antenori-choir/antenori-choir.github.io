@@ -13,7 +13,7 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 10px 10px;
+  padding: 5px 10px;
   position: relative;
 }
 
@@ -234,9 +234,6 @@ p {
     border-bottom: 1px solid rgba(255,255,255,0.1);
   }
 
-  main {
-    /* margin-top: 35px;*/
-  }
 
   .hero {
     height: 30vh;
@@ -298,6 +295,31 @@ p {
   font-size: 14px;
   color: #666;
 }
+
+
+
+.quote {
+  padding: 0px 0;
+}
+
+.quote .container {
+  max-width: 750px; /* più stretto */
+}
+
+.quote-text {
+  font-size: 16px;
+  line-height: 1.7;
+  font-style: italic;
+  color: #666; /* più grigio */
+  margin-bottom: 0px;
+}
+
+.quote-author {
+  font-size: 14px;
+  color: #666;
+  text-align: center; /* autore centrato */
+}
+
 
 /* =========================
    MEDIA
