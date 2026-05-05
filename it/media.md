@@ -71,7 +71,7 @@ permalink: /it/media/
 
   <h2>Ascolta</h2>
     <div class="audio-block">
-      <h3>La sera sper il lag (arr. Francesco Valandro)</h3>
+      <h3>La sera sper il lag</h3>
       <p>Gion Balzer Casanova, Flurin Camathias - composizione</p>
       <audio controls>
         <source src="/assets/audio/la-sera-sper-il-lag.mp3
@@ -80,7 +80,7 @@ permalink: /it/media/
     </div>
 
   <div class="audio-block">
-      <h3>Il testamento del capitano (arr. Francesco Valandro)</h3>
+      <h3>Il testamento del capitano</h3>
       <p>Canto popolare alpino — arrangiamento Francesco Valandro</p>
       <audio controls>
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
