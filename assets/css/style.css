@@ -247,6 +247,29 @@ p {
   }
 }
 
+
+.quote {
+  padding: 50px 0;
+}
+
+.quote .container {
+  max-width: 700px; /* più stretto */
+}
+
+.quote-text {
+  font-size: 22px;
+  line-height: 1.7;
+  font-style: italic;
+  color: #666; /* più grigio */
+  margin-bottom: 20px;
+}
+
+.quote-author {
+  font-size: 14px;
+  color: #666;
+  text-align: center; /* autore centrato */
+}
+
 /* =========================
    FIX SCROLL EVENTI
 ========================= */
