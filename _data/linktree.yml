@@ -1,0 +1,35 @@
+title: Antènori
+description: Coro di voci maschili di Padova
+
+links:
+  - label: Website
+    url: /it/
+    icon: favicon.png
+
+  - label: YouTube
+    url: https://www.youtube.com/@gliantenoripadova7364
+    icon: youtube.svg
+
+  - label: Instagram
+    url: https://www.instagram.com/gli_antenori
+    icon: instagram.svg
+
+  - label: TikTok
+    url: https://www.tiktok.com/@antenori_coro
+    icon: tiktok.svg
+
+  - label: Spotify
+    url: https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P
+    icon: spotify.svg
+
+  - label: YouTube Music
+    url: https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg
+    icon: youtubemusic.svg
+
+  - label: Email
+    url: mailto:corogliantenori@gmail.com
+    icon: email.svg
+
+  - label: SUPPORT US
+    url: https://antenori-choir.github.io/it/chi-siamo/#supportaci
+    icon: cuore.svg

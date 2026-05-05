@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/it/">
+  </head>
+</html>

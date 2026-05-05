@@ -1,0 +1,12 @@
+title: Antènori
+description: Coro maschile di Padova
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

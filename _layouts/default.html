@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  {% include head.html %}
+  <link rel="icon" href="/assets/images/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon.png">
+</head>
+<body>
+
+{% unless page.linktree %}
+  {% include header.html %}
+{% endunless %}
+
+<main>
+  {{ content }}
+</main>
+
+{% unless page.linktree %}
+  {% include footer.html %}
+{% endunless %}
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

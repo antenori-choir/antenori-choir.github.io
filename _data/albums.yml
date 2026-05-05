@@ -1,0 +1,62 @@
+# ============================================
+# COME MODIFICARE QUESTO FILE
+# ============================================
+
+# Questo file gestisce gli album mostrati nella pagina "Media".
+# NON serve modificare HTML: basta aggiornare qui.
+
+# Per ogni album:
+# - title: nome album (visibile nel sito)
+# - year: anno (visibile nel sito)
+# - image: percorso immagine (in /assets/images/)
+# - link: link cliccabile (Spotify o altro)
+
+# --------------------------------------------
+# LINK SPOTIFY (IMPORTANTE)
+# --------------------------------------------
+
+# Link artista (generico, sempre valido):
+# https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P
+
+# Per ottenere link SPECIFICI album:
+# 1. Apri Spotify
+# 2. Vai sull'album
+# 3. Click su "..." → Condividi → Copia link album
+# 4. Incolla qui sotto nel campo "link"
+
+# --------------------------------------------
+# AGGIUNGERE UN NUOVO ALBUM
+# --------------------------------------------
+
+# Copia questo blocco:
+
+# - title: Nome Album
+#   year: 2026
+#   image: /assets/images/nomefile.jpg
+#   link: https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P
+
+# e incollalo sotto
+
+# ============================================
+# ALBUM
+# ============================================
+
+- title: Tales
+  year: 2022
+  image: /assets/images/tales.png
+  link: https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P
+
+- title: Tales II
+  year: 2025
+  image: /assets/images/tales2.jpg
+  link: https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P
+
+- title: Little Blu
+  year: 2024
+  image: /assets/images/littleblu.jpg
+  link: https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P
+
+- title: Daûr San Pieri
+  year: 2023
+  image: /assets/images/daursanpieri.jpg
+  link: https://open.spotify.com/artist/2gCHa0jcrMyr2EAPoE8W5P

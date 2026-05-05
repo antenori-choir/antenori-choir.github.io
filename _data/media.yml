@@ -1,0 +1,13 @@
+videos:
+  - url: https://www.youtube.com/watch?v=xIAYh7v_isE
+    title: ""
+
+  - url: https://www.youtube.com/watch?v=ZYUqulaceU0
+    title: ""
+
+audio:
+  - title: Luce e silenzio
+    file: luce-e-silenzio.mp3
+
+  - title: La sera
+    file: la-sera.mp3

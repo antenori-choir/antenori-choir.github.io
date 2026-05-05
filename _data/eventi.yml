@@ -1,0 +1,22 @@
+# COME AGGIUNGERE UN EVENTO
+# - Copia un blocco esistente
+# - Modifica i campi ( se si vuole andare a capo bisogna scrivere <br> )
+# - Mantieni la stessa struttura
+# - Attenzione agli spazi
+# n.b. il campo immagine prende le immagini precaricate nel sito, sono in totale 7 e seguono il nome in ordine crescente (evento-1.jpg, evento-2.jpg...)
+
+- data: 2026-06-12
+  ora: "21:00"
+  titolo: "10 anni di Antènori"
+  luogo: "Chiesa di San Gaetano, Padova"
+  mappa: "https://maps.app.goo.gl/E21AcAFdprufvx3V8"
+  note: "Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero"
+  immagine: "/assets/images/evento-1.jpg"
+
+- data: 2026-06-27
+  ora: "21:00"
+  titolo: "Concerto in onore a Gianni Malatesta"
+  luogo: "Convento di Santa Maria del Cengio, Isola Vicentina"
+  mappa: "https://maps.app.goo.gl/H5rjSNyxR3YptD4D9"
+  note: "Omaggio al compositore padovano Gianni Malatesta (1925-2021). Il concerto è parte di una rassegna organizzata da 'coro voci del Pasubio'.<br> Ingresso Libero"
+  immagine: "/assets/images/evento-2.jpg"
