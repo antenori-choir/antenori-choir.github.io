@@ -81,7 +81,7 @@ permalink: /it/media/
 
   <div class="audio-block">
       <h3>Il testamento del capitano</h3>
-      <p>Canto popolare alpino — arrangiamento Francesco Valandro</p>
+      <p>Canto popolare alpino - arrangiamento Francesco Valandro</p>
       <audio controls>
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
       </audio>

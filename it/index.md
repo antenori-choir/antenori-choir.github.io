@@ -27,7 +27,7 @@ layout: default
       “Nel loro repertorio c’è la capacità di conservare la tradizione, ma anche lo sviluppo di un guardare avanti: un racconto capace di far pensare e meditare profondamente.”
     </p>
     <p class="quote-author">
-      — Dino Bridda, Commissione Premio della Critica “Carlo Bologna”, 12° Festival della Coralità Veneta
+      -- Dino Bridda, Commissione Premio della Critica “Carlo Bologna”, 12° Festival della Coralità Veneta
     </p>
   </div>
 </section>

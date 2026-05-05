@@ -260,6 +260,7 @@ p {
   font-size: 16px;
   line-height: 1.7;
   font-style: italic;
+  text-align: center;
   color: #666; /* più grigio */
   margin-bottom: 20px;
 }
@@ -733,6 +734,15 @@ p {
   justify-items: center;
   margin-top: 40px;
 }
+
+
+
+
+
+#supportaci .donation-block {
+  margin-left: 20px;
+}
+
 
 
 
