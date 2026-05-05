@@ -74,8 +74,7 @@ permalink: /it/media/
       <h3>La sera sper il lag</h3>
       <p>Gion Balzer Casanova, Flurin Camathias - composizione</p>
       <audio controls>
-        <source src="/assets/audio/la-sera-sper-il-lag.mp3
-" type="audio/mpeg">
+        <source src="/assets/audio/la-sera-sper-il-lag.mp3" type="audio/mpeg">
       </audio>
     </div>
 
