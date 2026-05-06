@@ -50,7 +50,7 @@ permalink: /it/media/
 
 <section class="media-links">
   <div class="container narrow">
-    <h3>Streaming Audio</h3>
+    <h3>Disponibili nell piattaforme:</h3>
 
     <div class="media-grid">
 
@@ -119,7 +119,7 @@ permalink: /it/media/
 <section>
   <div class="container narrow">
 
-  <h2>Audio</h2>
+  <h2>Audio Sample</h2>
     <div class="audio-block">
       <h3>La sera sper il lag</h3>
       <p>Gion Balzer Casanova, Flurin Camathias - composizione</p>
