@@ -260,13 +260,14 @@ p {
   font-size: 16px;
   line-height: 1.7;
   font-style: italic;
+  font-weight: bold;
   text-align: center;
   color: #666; /* più grigio */
   margin-bottom: 20px;
 }
 
 .quote-author {
-  font-size: 14px;
+  font-size: 13px;
   color: #666;
   text-align: center; /* autore centrato */
 }
@@ -374,6 +375,14 @@ p {
   height: 42px;
   margin-bottom: 10px;
 }
+
+
+
+
+
+
+
+
 
 /* =========================
    EVENTI (tuo codice)
@@ -730,7 +739,7 @@ p {
 .albums {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 40px;
+  gap: 30px;
   justify-items: center;
   margin-top: 40px;
 }
@@ -796,6 +805,13 @@ p {
 }
 
 .video-immersive a:hover img {
-  transform: scale(1.03);
+  transform: scale(1.015);
 
+}
+
+.play-icon {
+  width: 84px;
+  height: 50px !important;
+  opacity: 0.9;
+  filter: brightness(0) invert(1);
 }

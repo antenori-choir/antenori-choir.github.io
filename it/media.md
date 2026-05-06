@@ -7,14 +7,7 @@ permalink: /it/media/
   <div class="container narrow">
     <h2><br>Discografia</h2>
   </div>
-      <p class="cta-center buttons-inline">
-  <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="btn-minimal">
-    Spotify
-  </a>
-  <a href="https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg" target="_blank" class="btn-minimal">
-    YouTube Music
-  </a>
-</p>
+      
 </section>
 
 
@@ -33,7 +26,23 @@ permalink: /it/media/
       {% endfor %}
 
     </div>
+<p class="cta-center buttons-inline">
+  <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="btn-minimal">
+    Spotify
+  </a>
 
+  <a href="https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg" target="_blank" class="btn-minimal">
+    YouTube Music
+  </a>
+
+  <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="btn-minimal">
+    Apple Music
+  </a>
+
+  <a href="https://tidal.com/artist/34170256" target="_blank" class="btn-minimal">
+    Tidal
+  </a>
+</p>
   </div>
 </section>
 
@@ -43,24 +52,33 @@ permalink: /it/media/
   <div class="container narrow">
 
     <h2>Video</h2>
-<!--
+
+    <!--
     <p class="cta-center">
       <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" class="btn-minimal">
         YouTube Video
       </a>
     </p>
--->
+    -->
+
   </div>
+
   <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
 
-    <div class="video-inner">
-      <img src="/assets/images/backstage.jpg" alt="Video Coro Antènori">
+  <div class="video-inner">
 
-      <div class="overlay"></div>
+  <img src="/assets/images/backstage.jpg" alt="Video Coro Antènori">
 
-      <div class="video-text">
-        <h2>Video</h2>
+  <div class="overlay"></div>
+
+  <div class="video-text">
+        <img 
+          src="/assets/images/youtube2.png" 
+          alt="Play Video"
+          class="play-icon"
+        >
       </div>
+
     </div>
 
   </a>
