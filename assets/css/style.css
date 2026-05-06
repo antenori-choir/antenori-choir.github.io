@@ -577,6 +577,7 @@ p {
 .cta-center {
   text-align: center;
   margin-top: 30px;
+  margin-bottom: -30px;
   font-size: 15px;
 }
 
@@ -734,6 +735,7 @@ p {
 
 .album {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .albums {
@@ -741,7 +743,7 @@ p {
   grid-template-columns: repeat(2, 1fr);
   gap: 30px;
   justify-items: center;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 

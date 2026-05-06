@@ -5,7 +5,7 @@ permalink: /it/media/
 ---
 <section>
   <div class="container narrow">
-    <h2><br>Discografia</h2>
+    <h2><br>Pubblicazioni</h2>
   </div>
       
 </section>
@@ -14,7 +14,7 @@ permalink: /it/media/
 <section>
   <div class="container">
 
-    <div class="albums">
+  <div class="albums">
 
       {% for album in site.data.albums %}
         <div class="album">
@@ -24,25 +24,57 @@ permalink: /it/media/
           </a>
         </div>
       {% endfor %}
-
-    </div>
+  </div>
+<!--
 <p class="cta-center buttons-inline">
   <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="btn-minimal">
     Spotify
   </a>
 
-  <a href="https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg" target="_blank" class="btn-minimal">
+    <a href="https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg" target="_blank" class="btn-minimal">
     YouTube Music
-  </a>
+    </a>
 
-  <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="btn-minimal">
+     <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="btn-minimal">
     Apple Music
-  </a>
+    </a>
 
-  <a href="https://tidal.com/artist/34170256" target="_blank" class="btn-minimal">
+    <a href="https://tidal.com/artist/34170256" target="_blank" class="btn-minimal">
     Tidal
-  </a>
-</p>
+    </a>
+    </p>
+-->
+  </div>
+</section>
+
+
+<section class="media-links">
+  <div class="container narrow">
+    <h3>Streaming Audio</h3>
+
+    <div class="media-grid">
+
+      <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="media-item">
+        <img src="/assets/images/spotify.svg" alt="Spotify">
+        <span>Spotify</span>
+      </a>
+
+      <a href="https://music.youtube.com/channel/UCxxxxxxxx" target="_blank" class="media-item">
+        <img src="/assets/images/youtubemusic.svg" alt="YouTube Music">
+        <span>YouTube Music</span>
+      </a>
+
+            <a href="https://tidal.com/artist/34170256" target="_blank" class="media-item">
+        <img src="/assets/images/tidal.svg" alt="Tidal">
+        <span>Tidal</span>
+      </a>
+
+            <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="media-item">
+        <img src="/assets/images/applemusic.svg" alt="Apple Music">
+        <span>Apple Music</span>
+      </a>
+
+    </div>
   </div>
 </section>
 
@@ -87,7 +119,7 @@ permalink: /it/media/
 <section>
   <div class="container narrow">
 
-  <h2>Ascolta</h2>
+  <h2>Audio</h2>
     <div class="audio-block">
       <h3>La sera sper il lag</h3>
       <p>Gion Balzer Casanova, Flurin Camathias - composizione</p>
@@ -102,41 +134,14 @@ permalink: /it/media/
       <audio controls>
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
       </audio>
-    </div>
-
   </div>
-</section>
-
 <!--
-<section>
-  <div class="container narrow">
-
-    <h3>Arrangiamenti e Audio Engineering</h3>
-    <p>
-      Molti arrangiamenti del repertorio sono curati dal direttore Francesco Valandro.
+  <h3>Armonizzazioni e Registrazioni</h3>
+      <p>
+      Molte delle armonizzazioni sono a cura del direttore <a href="mailto:francescovalandro@gmail.com">Francesco Valandro</a>.<br>
+      Audio Engineering (registrazione, mix e mastering) a cura di  
+      <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
     </p>
-
-    <p>
-      Audio Engineering a cura di Pietro Andrigo.
-    </p>
-
+-->
   </div>
 </section>
--->
-        
-<!-- NOTE 
-<section>
-  <div class="container narrow">
-
-    <p>
-      Molte armonizzazioni sono curate da <a href="mailto:francescovalandro@gmail.com">Francesco Valandro</a>.
-    </p>
-
-    <p>
-      Produzione audio e video interna (audio engineering: 
-      <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>).
-    </p>
-
-  </div>
-</section>
--->
