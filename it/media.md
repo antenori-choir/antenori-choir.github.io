@@ -50,7 +50,7 @@ permalink: /it/media/
 
 <section class="media-links">
   <div class="container narrow">
-    <h3>Disponibili nell piattaforme:</h3>
+    <h3>Disponibili nelle piattaforme:</h3>
 
     <div class="media-grid">
 
