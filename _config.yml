@@ -1,7 +1,10 @@
 title: Antènori
 description: Coro maschile di Padova
 baseurl: ""
-url: ""
+url: "https://www.coroantenori.it"
+
+plugins:
+  - jekyll-sitemap
 
 markdown: kramdown
 
