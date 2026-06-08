@@ -817,3 +817,111 @@ p {
   opacity: 0.9;
   filter: brightness(0) invert(1);
 }
+
+/* =========================
+   10 YEARS
+========================= */
+
+.concert-program {
+  padding-top: 80px;
+}
+
+.concert-program h1 {
+  font-size: 36px;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.program-intro {
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.program-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.program-song {
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+.program-song summary {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 18px;
+  font-size: 24px;
+}
+
+.program-song summary strong {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.program-song summary small {
+  font-size: 13px;
+  font-weight: 400;
+  color: #666;
+}
+
+.program-song-content {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  padding: 0 18px 18px;
+}
+
+.program-song-content.single {
+  grid-template-columns: 1fr;
+}
+
+.program-song-content h3 {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.lyrics {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.program-thanks {
+  margin: 28px 0 0;
+  font-size: 15px;
+  color: #666;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .concert-program {
+    padding-top: 105px;
+  }
+
+  .concert-program h1 {
+    font-size: 34px;
+  }
+
+  .program-song summary {
+    padding: 14px;
+    font-size: 21px;
+  }
+
+  .program-song summary strong {
+    font-size: 21px;
+  }
+
+  .program-song-content {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    padding: 0 14px 16px;
+  }
+
+  .lyrics {
+    font-size: 15px;
+  }
+}
