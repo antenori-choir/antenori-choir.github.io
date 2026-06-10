@@ -6,11 +6,15 @@ permalink: /it/10years/
 
 <section class="concert-program">
   <div class="container narrow">
-    <h1>10 Years<br>Testi e traduzioni</h1>
+    <h1>10 Anni di Antenori</h1>
+    <img src="/assets/images/logo10y.jpg"
+        alt="Logo 10 anni di Antenori"
+        style="display:block; margin:20px 0; max-height:100px; width:auto;">
     <p class="program-intro">
       12 giugno 2026 <br>
       Chiesa di San Gaetano, Padova.
     </p>
+    <h3>Programma, testi e traduzioni:</h3>
 
     <div class="program-list">
       <details class="program-song" open>
@@ -499,8 +503,26 @@ permalink: /it/10years/
       </details>
     </div>
 
-    <p class="program-thanks">
-      <a href="https://antenori-choir.github.io/it/links">Continua a seguirci: *LINK*</a>
-    </p>
   </div>
 </section>
+
+<div class="linktree">
+  <div class="linktree-container">
+
+    <div class="linktree-header">
+      <img src="/assets/images/logo_nero_orizzontale.png" class="linktree-logo" alt="Antènori">
+      <!-- <h1>{{ site.data.linktree.title }}</h1> -->
+      <p>{{ site.data.linktree.description }}</p>
+    </div>
+
+    <div class="linktree-links">
+      {% for item in site.data.linktree.links %}
+        <a href="{{ item.url }}" class="linktree-item" target="_blank">
+          <img src="/assets/images/{{ item.icon }}" alt="">
+          <span>{{ item.label }}</span>
+        </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
