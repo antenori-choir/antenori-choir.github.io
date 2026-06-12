@@ -409,7 +409,7 @@ permalink: /it/10years/
       <details class="program-song">
         <summary>
           <strong>La notte se ti chiama</strong>
-          <small>(Francesco Valandro)</small>
+          <small>(Francesco Valandro, Piron Tommaso)</small>
         </summary>
         <div class="program-song-content single">
           <div>
