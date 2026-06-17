@@ -66,13 +66,13 @@ permalink: /it/chi-siamo/
           <li>Zanovello Matteo</li>
           <li>Artuso Paolo</li>
           <li>Rocco Stefano</li>
+          <li>Tiozzo Pagio Alessandro</li>
         </ul>
       </div>
 
       <div>
         <h3>Bassi</h3>
         <ul>
-          <li>Tiozzo Pagio Alessandro</li>
           <li>Penzo Diego</li>
           <li>Boscolo Sesillo Davide</li>
           <li>Colcuc Giacomo</li>
