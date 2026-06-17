@@ -20,3 +20,11 @@
   mappa: "https://maps.app.goo.gl/H5rjSNyxR3YptD4D9"
   note: "Omaggio al compositore padovano Gianni Malatesta (1925-2021). Il concerto è parte di una rassegna organizzata da 'coro voci del Pasubio'.<br> Ingresso Libero"
   immagine: "/assets/images/evento-2.jpg"
+
+- data: 2026-09-27
+  ora: "20:15"
+  titolo: "Concerto per la Pace"
+  luogo: "Auditorium Cesare Pollini, Padova"
+  mappa: "https://maps.app.goo.gl/QQyC7yHwGUtyjg2a7"
+  note: "Rassegna corale promossa dall'Associazione Corale CorreVoce in collaborazione con il Comune di Padova, nell'ambito della Giornata del Volontariato e del Giro d'Italia per la Pace.<br>Un concerto a più voci con cori della città e della provincia di Padova dedicato alla promozione della pace, della solidarietà e dei diritti umani."
+  immagine: "/assets/images/evento-6.jpg"
