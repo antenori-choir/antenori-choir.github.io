@@ -129,8 +129,16 @@ permalink: /it/media/
     </div>
 
   <div class="audio-block">
+    <h3>Mis on inimene? (Live)</h3>
+    <p>Doris Kareva (arr. Pärt Uusberg)</p>
+    <audio controls>
+      <source src="/assets/audio/mis-on-inimene.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+  <div class="audio-block">
       <h3>Il testamento del capitano</h3>
-      <p>Canto popolare alpino - arrangiamento Francesco Valandro</p>
+      <p>Canto popolare alpino (arr. Francesco Valandro)</p>
       <audio controls>
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
       </audio>
