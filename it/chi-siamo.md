@@ -20,7 +20,10 @@ permalink: /it/chi-siamo/
   <div class="container">
     <h2>Direttore</h2>
     <p>
-      Francesco Valandro, diplomato in pianoforte presso il Conservatorio “C. Pollini” di Padova, affianca all’attività concertistica come pianista quella di baritono in vari ensemble vocali. Dirige il coro fin dalla sua fondazione ed è attivo anche come compositore e arrangiatore di musica corale. Nel 2018 ha ottenuto il 1° premio (composizione) e il 2° premio (armonizzazione) al concorso nazionale 'XVII Concorso Armonizzazione e Composizione' organizzato da AGC Verona.
+      Francesco Valandro, diplomato in pianoforte presso il Conservatorio “C. Pollini” di Padova, affianca all’attività concertistica come pianista quella di baritono in vari ensemble vocali. Dirige il coro fin dalla sua fondazione ed è attivo anche come compositore e arrangiatore di musica corale. Nel 2018 ha ottenuto il 1° premio (composizione) e il 2° premio (armonizzazione) al concorso nazionale "XVII Concorso Armonizzazione e Composizione" organizzato da AGC Verona. Per approfondire la sua attività artistica e compositiva è possibile visitare il
+      <a href="https://francescovalandro.com" target="_blank" rel="noopener noreferrer">
+        sito personale (link)
+      </a>.
     </p>
   </div>
 </section>

@@ -143,13 +143,16 @@ permalink: /it/media/
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
       </audio>
   </div>
-<!--
-  <h3>Armonizzazioni e Registrazioni</h3>
-      <p>
-      Molte delle armonizzazioni sono a cura del direttore <a href="mailto:francescovalandro@gmail.com">Francesco Valandro</a>.<br>
-      Audio Engineering (registrazione, mix e mastering) a cura di  
-      <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
-    </p>
--->
+
+<h3>Armonizzazioni e Registrazioni</h3>
+<p>
+  Molte delle armonizzazioni eseguite sono a cura di
+  <a href="https://francescovalandro.com" target="_blank" rel="noopener noreferrer">
+    Francesco Valandro.
+    </a><br>
+  Audio engineering (registrazione, mix e mastering) a cura di
+  <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
+</p>
+
   </div>
 </section>
