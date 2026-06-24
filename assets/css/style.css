@@ -75,6 +75,7 @@ p {
   display: block;
 }
 
+
 @media (max-width: 1024px) {
   .grid-4 {
     grid-template-columns: 1fr;
@@ -156,7 +157,7 @@ p {
   height: 100vh;
   background-image: url('/assets/images/hero.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center ;
   display: flex;
   align-items: center;
 }
@@ -191,11 +192,17 @@ p {
   display: block;
 }
 }
+
+
+
+
+
+
 /* =========================
    MOBILE NAV
 ========================= */
 
-@media (max-width: 1024px) {
+@media (max-width: 1224px) {
 
   h1 { font-size: 30px; }
   h2 { font-size: 28px; }
@@ -236,14 +243,14 @@ p {
 
 
   .hero {
-    height: 36vh;
-    margin-top: 25px;
-    min-height: 240px;
-    background-position: top center;
+    height: clamp(240px, 70vw, 800px);
+    margin-top: -35px;
+    
+    background-position: center 35px;;
   }
 
   section {
-    padding: 15px 0;
+    padding: 10px 0;
   }
 }
 
