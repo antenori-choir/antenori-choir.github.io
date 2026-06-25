@@ -153,6 +153,5 @@ permalink: /it/media/
   Audio engineering (registrazione, mix e mastering) a cura di
   <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
 </p>
-
   </div>
 </section>
