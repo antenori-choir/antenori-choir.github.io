@@ -36,7 +36,7 @@ Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che ri
     <div class="video">
     <iframe
         src="https://www.youtube.com/embed/b33TiiQ4TXg"
-        style="display:block; width:30%; aspect-ratio:9/10; margin:0 auto; border:0;"
+        style="display:block; width:50%; aspect-ratio:9/10; margin:0 auto; border:0;"
         title="YouTube Shorts"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
