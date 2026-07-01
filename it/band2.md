@@ -59,7 +59,7 @@ coinvolgente, costruito per condividere energia, emozioni e divertimento con il 
 
 <div class="container narrow">
 
-<h2>Lo spettacolo</h2>
+<h2>Lo show</h2>
 
 <p>
 Più di una semplice cover band.
