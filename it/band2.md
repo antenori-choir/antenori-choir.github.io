@@ -46,14 +46,6 @@ Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che ri
 </section>
 
 
-
-<section class="section-immersive">
-
-<img src="/assets/images/band-photo-01.jpg"
-     alt="Antènori Band Experience">
-
-</section>
-
 <section class="band-intro">
 
 <div class="container narrow">
@@ -73,12 +65,9 @@ Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine
 
 <section class="section-immersive">
 
-<img src="/assets/images/band-photo-02.jpg"
+<img src="/assets/images/band-photo-01.jpg"
      alt="Antènori Band Experience">
-
 </section>
-
-
 <section>
   <div class="container narrow">
     <h2>Contatti</h2>
@@ -87,4 +76,14 @@ Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine
     </p>
   </div>
 </section>
+
+
+<section class="section-immersive">
+
+<img src="/assets/images/band-photo-02.jpg"
+     alt="Antènori Band Experience">
+
+</section>
+
+
 
