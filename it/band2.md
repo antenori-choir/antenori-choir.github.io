@@ -55,7 +55,7 @@ Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che ri
 <p>
 Dimentica la solita cover band. Antenori Band Experience è uno spettacolo che unisce energia, coinvolgimento e qualità musicale. Dai grandi classici ai successi più recenti, ogni brano prende vita con arrangiamenti originali, un'imponente sezione fiati e un sound che travolge il pubblico.
 <br><br>
-Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine. Lo show si adatta perfettamente a matrimoni, feste, eventi aziendali, piazze e manifestazioni.
+Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine. Lo show si adatta perfettamente a feste, matrimoni, eventi, piazze e manifestazioni.
 </p>
 
 
