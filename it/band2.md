@@ -18,11 +18,10 @@ layout: default
 
 <div class="container narrow">
 
-<h2>Quando il coro incontra la band.</h2>
+<h2>⭍ The rock side of the Choir ⭍</h2>
 
 <p>
-Voci, sezione fiati, tastiere, chitarre, basso e batteria danno vita a uno spettacolo
-coinvolgente, costruito per condividere energia, emozioni e divertimento con il pubblico.
+Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che riempiono l'aria e un basso che ti trascina in pista senza possibilità di fuga.
 </p>
 
 </div>
@@ -37,7 +36,7 @@ coinvolgente, costruito per condividere energia, emozioni e divertimento con il 
       <iframe 
         width="100%" 
         height="350" 
-        src="https://www.youtube.com/embed/DbvHxfNIcyk?rel=0&modestbranding=1"
+        src="https://youtube.com/shorts/b33TiiQ4TXg"
         title="Coro Antènori"
         frameborder="0" 
         allowfullscreen>
@@ -55,23 +54,18 @@ coinvolgente, costruito per condividere energia, emozioni e divertimento con il 
 
 </section>
 
-<section>
+<section class="band-intro">
 
 <div class="container narrow">
 
 <h2>Lo show</h2>
 
 <p>
-Più di una semplice cover band.
-Band Experience propone uno spettacolo dal vivo che attraversa alcuni dei grandi
-successi della musica italiana e internazionale con arrangiamenti originali,
-una forte componente vocale e una sezione fiati protagonista.
+Dimentica la solita cover band. Antenori Band Experience è uno spettacolo che unisce energia, coinvolgimento e qualità musicale. Dai grandi classici ai successi più recenti, ogni brano prende vita con arrangiamenti originali, un'imponente sezione fiati e un sound che travolge il pubblico.
+<br><br>
+Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine. Lo show si adatta perfettamente a matrimoni, feste, eventi aziendali, piazze e manifestazioni.
 </p>
 
-<p>
-Il concerto dura circa novanta minuti ed è facilmente adattabile a feste,
-matrimoni, manifestazioni ed eventi.
-</p>
 
 </div>
 
