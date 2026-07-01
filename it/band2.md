@@ -18,7 +18,7 @@ layout: default
 
 <div class="container narrow">
 
-<h2>⭍ The rock side of the Choir ⭍</h2>
+<h2>⭍The rock side of the Choir⭍</h2>
 
 <p>
 Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che riempiono l'aria e un basso che ti trascina in pista senza possibilità di fuga.
@@ -33,14 +33,13 @@ Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che ri
 <section class="media">
   <div class="container narrow">
     <div class="video">
-      <iframe 
-        width="100%" 
-        height="350" 
-        src="https://youtube.com/shorts/b33TiiQ4TXg"
-        title="Coro Antènori"
-        frameborder="0" 
+    <iframe
+        src="https://www.youtube.com/embed/b33TiiQ4TXg"
+        style="display:block; width:30%; aspect-ratio:9/10; margin:0 auto; border:0;"
+        title="YouTube Shorts"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
-      </iframe>
+    </iframe>
     </div>
   </div>
 </section>
