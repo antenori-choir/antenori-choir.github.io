@@ -30,6 +30,9 @@ links:
     url: mailto:corogliantenori@gmail.com
     icon: email.svg
   
+  - label: Antènori Band Experience
+    url: https://coroantenori.it/it/band/
+    icon: band_logo3.png
 
   - label: SUPPORT US
     url: https://antenori-choir.github.io/it/chi-siamo/#supportaci

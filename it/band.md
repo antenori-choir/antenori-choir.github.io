@@ -18,8 +18,7 @@ permalink: /it/band/
 <section class="band-intro">
 
 <div class="container narrow">
-
-<h2>⚡The rock side of the choir⚡</h2>
+<h2 style="font-family: 'Impact', sans-serif;">⚡The rock side of the choir⚡</h2>
 
 <p>
 
