@@ -19,10 +19,11 @@ permalink: /it/band2/
 
 <div class="container narrow">
 
-<h2>⚡The rock side of the Choir⚡</h2>
+<h2>⚡The rock side of the choir⚡</h2>
 
 <p>
-Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che riempiono l'aria e un basso che ti trascina in pista senza possibilità di fuga.
+
+Fiati incandescenti e voci che conquistano, chitarre che mordono e tastiere che riempiono l'aria, basso e batteria che ti trascinano in pista senza possibilità di fuga.
 </p>
 
 </div>
@@ -54,6 +55,7 @@ Fiati incandescenti, voci che conquistano, chitarre che mordono, tastiere che ri
 
 <p>
 Dimentica la solita cover band. Antenori Band Experience è uno spettacolo che unisce energia, coinvolgimento e qualità musicale. Dai grandi classici ai successi più recenti, ogni brano prende vita con arrangiamenti originali, un'imponente sezione fiati e un sound che travolge il pubblico.
+Dal rock italiano ai grandi classici internazionali, passando per blues, funk e pop d'autore: una scaletta pensata per far cantare e ballare ogni generazione.
 <br><br>
 Novanta minuti senza tregua, da vivere cantando e ballando dall'inizio alla fine. Lo show si adatta perfettamente a feste, matrimoni, eventi, piazze e manifestazioni.
 </p>

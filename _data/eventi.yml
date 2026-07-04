@@ -5,13 +5,13 @@
 # - Attenzione agli spazi
 # n.b. il campo immagine prende le immagini precaricate nel sito, sono in totale 7 e seguono il nome in ordine crescente (evento-1.jpg, evento-2.jpg...)
 
-- data: 2026-06-12
-  ora: "21:00"
-  titolo: "10 anni di Antènori"
-  luogo: "Chiesa di San Gaetano, Padova"
-  mappa: "https://maps.app.goo.gl/E21AcAFdprufvx3V8"
-  note: 'Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero.<br><br><a href="https://coroantenori.it/it/10years/" target="_blank"><strong>*LINK AL PROGRAMMA, TESTI E TRADUZIONI*</strong></a>'
-  immagine: "/assets/images/evento-1.jpg"
+# data: 2026-06-12
+#  ora: "21:00"
+#  titolo: "10 anni di Antènori"
+#  luogo: "Chiesa di San Gaetano, Padova"
+#  mappa: "https://maps.app.goo.gl/E21AcAFdprufvx3V8"
+#  note: 'Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero.<br><br><a href="https://coroantenori.it/it/10years/" target="_blank"><strong>*LINK AL PROGRAMMA, TESTI E TRADUZIONI*</strong></a>'
+#  immagine: "/assets/images/evento-1.jpg"
 
 - data: 2026-06-27
   ora: "21:00"
