@@ -1,7 +1,7 @@
 ---
 title: Antènori Band Experience
 layout: default
-permalink: /it/band2/
+permalink: /it/band/
 ---
 <section class="hero" style="background-image:url('/assets/images/band-hero.jpg')">
     <img class="band-logo" src="/assets/images/band_logo.png" alt="Band logo">
