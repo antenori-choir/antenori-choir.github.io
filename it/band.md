@@ -58,7 +58,9 @@ Fiati incandescenti e voci che conquistano, chitarre che mordono e tastiere che 
 
 <div class="container narrow">
 
-<h2>Lo show</h2>
+<h2 style="font-family: 'Anton', sans-serif;">
+  ⚡Lo show⚡
+</h2>
 
 <p>
 Dimentica la solita cover band. Antenori Band Experience è uno spettacolo che unisce energia, coinvolgimento e qualità musicale. Dai grandi classici ai successi più recenti, ogni brano prende vita con arrangiamenti originali, un'imponente sezione fiati e un sound che travolge il pubblico.
