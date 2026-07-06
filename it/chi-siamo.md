@@ -5,6 +5,7 @@ permalink: /it/chi-siamo/
 ---
 
 <section>
+  <br>
   <div class="container">
   <img src="/assets/images/logo_nero_orizzontale.png" alt="Antènori" class="logo-chi-siamo">
     <h2>Biografia</h2>
@@ -119,6 +120,9 @@ permalink: /it/chi-siamo/
 </section>
 
 <!-- IMMAGINE -->
-<section class="section-immersive">
-  <img src="/assets/images/chi-siamo.jpg" alt="">
+<section>
+  <img
+    src="/assets/images/chi-siamo.jpg"
+    alt=""
+    style="display:block; width:100%; height:auto;">
 </section>
