@@ -114,7 +114,7 @@ p {
 
 /* MENU CENTRALE */
 .nav-menu {
-  flex: 1;
+  flex: 0 0 auto;
   display: flex;
   justify-content: center;
   gap: 25px;
