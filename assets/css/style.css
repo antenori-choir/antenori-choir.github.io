@@ -140,14 +140,14 @@ p {
 .nav-toggle {
   display: none;
   flex-direction: column;
-  gap: 4.5px;
+  gap: 6px;
   background: none;
   border: none;
   cursor: pointer;
 }
 
 .nav-toggle span {
-  width: 22px;
+  width: 25px;
   height: 2.5px;
   background: #fff;
 }
@@ -208,11 +208,11 @@ p {
   h2 { font-size: 28px; }
 
   .site-header {
-    height: 50px;
+    height: 55px;
   }
 
   .logo img {
-    height: 40px;
+    height: 45px;
   }
 
   /* MOSTRA HAMBURGER */
@@ -223,12 +223,12 @@ p {
   /* MENU MOBILE */
   .nav-menu {
     position: absolute;
-    top: 50px;
+    top: 55px;
     right: 0;
     background: #2b2b2b;
     flex-direction: column;
     width: 200px;
-    padding: 15px;
+    padding: 20px;
     display: none;
   }
 
@@ -237,7 +237,7 @@ p {
   }
 
   .nav-menu a {
-    padding: 10px 0;
+    padding: 8px 0;
     border-bottom: 1px solid rgba(255,255,255,0.1);
   }
 
