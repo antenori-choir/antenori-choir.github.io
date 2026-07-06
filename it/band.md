@@ -3,6 +3,12 @@ title: Antènori Band Experience
 layout: default
 permalink: /it/band/
 ---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
+
 <section class="hero" style="background-image:url('/assets/images/band-hero.jpg')">
     <img class="band-logo" src="/assets/images/band_logo.png" alt="Band logo">
 </section>
@@ -18,7 +24,9 @@ permalink: /it/band/
 <section class="band-intro">
 
 <div class="container narrow">
-<h2 style="font-family: 'Impact', sans-serif;">⚡The rock side of the choir⚡</h2>
+<h2 style="font-family: 'Anton', sans-serif;">
+  ⚡The rock side of the choir⚡
+</h2>
 
 <p>
 
