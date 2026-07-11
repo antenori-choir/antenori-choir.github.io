@@ -95,15 +95,15 @@ permalink: /it/media/
 
   </div>
 
-  <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
+  <a class="media-video-card" href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
 
-  <div class="video-inner">
+  <div class="media-video-inner">
 
   <img src="/assets/images/backstage.jpg" alt="Video Coro Antènori">
 
-  <div class="overlay"></div>
+  <div class="media-video-overlay"></div>
 
-  <div class="video-text">
+  <div class="media-video-content">
         <img 
           src="/assets/images/youtube2.png" 
           alt="Play Video"

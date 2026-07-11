@@ -853,59 +853,89 @@ p {
 }
 
 /* centra e limita */
-.video-inner {
+.media-video-card {
+  display: block;
+  text-decoration: none;
+}
+
+.media-video-inner {
   position: relative;
   max-width: 900px;   /* 👈 ridotto, più elegante */
   margin: 0 auto;
 }
 
 /* forza comportamento corretto immagine */
-.video-inner img {
+.media-video-inner > img {
   width: 100%;
-  height: 320px;
+  height: 100%;
   object-fit: cover;
   display: block;
+  transition: transform 0.7s ease;
 }
 
 /* overlay */
-.video-inner .overlay {
+.media-video-overlay {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0,0,0,0.4);
+  inset: 0;
+  background: rgba(0,0,0,.35);
+  transition: background 0.4s ease;
 }
 
 /* testo */
-.video-text {
+.media-video-content {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
 }
 
-.video-text h2 {
+.media-video-content h2 {
   color: #fff;
   font-size: 44px;
   margin: 0;
 }
 
 /* hover */
-.video-inner img {
-  transition: transform 0.4s ease, opacity 0.4s ease;
+.media-video-inner > img {
+  transition: transform 0.7s ease;
 }
 
-.video-immersive a:hover img {
-  transform: scale(1.015);
+.media-video-inner {
+  height: 330px;
+  overflow: hidden;
+  border-radius: 24px;
+}
 
+.media-video-card:hover .media-video-inner > img {
+  transform: scale(1.06);
+
+}
+
+.media-video-card:hover .media-video-overlay {
+  background: rgba(0,0,0,.18);
 }
 
 .play-icon {
-  width: 84px;
-  height: 50px !important;
+  width: 200px;
+  height: auto !important;
   opacity: 0.9;
   filter: brightness(0) invert(1);
+}
+
+@media (max-width: 768px) {
+  .play-icon {
+    width: 150px;
+  }
+}
+
+@media (max-width: 768px) {
+  .media-video-inner {
+    width: calc(100% - 30px);
+    height: 220px;
+    border-radius: 18px;
+  }
 }
 
 /* =========================
