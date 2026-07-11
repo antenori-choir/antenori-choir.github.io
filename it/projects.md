@@ -21,10 +21,10 @@ permalink: /it/projects/
       <img src="/assets/images/band-photo-01.jpg" alt="Band">
       <div class="overlay"></div>
 
-      <div class="project-content">
-          <h2>Antènori Band Experience</h2>
-          <p>Folk • Rock • Live</p>
-      </div>
+        <div class="project-content">
+            <h2>Antènori Band Experience</h2>
+            <p>Folk • Rock • Live</p>
+        </div>
   </a>
 
   <a class="project-card" href="/it/projects/">
