@@ -13,21 +13,7 @@
 #  note: 'Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero.<br><br><a href="https://coroantenori.it/it/10years/" target="_blank"><strong>*LINK AL PROGRAMMA, TESTI E TRADUZIONI*</strong></a>'
 #  immagine: "/assets/images/evento-1.jpg"
 
-- data: 2026-06-27
-  ora: "21:00"
-  titolo: "Concerto in onore a Gianni Malatesta"
-  luogo: "Convento di Santa Maria del Cengio, Isola Vicentina"
-  mappa: "https://maps.app.goo.gl/H5rjSNyxR3YptD4D9"
-  note: "Omaggio al compositore padovano Gianni Malatesta (1925-2021). Il concerto è parte di una rassegna organizzata da 'coro voci del Pasubio'.<br> Ingresso Libero"
-  immagine: "/assets/images/evento-2.jpg"
 
-- data: 2026-07-18
-  ora: "21:00"
-  titolo: "Antènori Band Experience"
-  luogo: "Parco Comunale, Viale dei Ginepri, Bibione Pineda"
-  mappa: "https://maps.app.goo.gl/jTKT7HqS8AX9bja6A"
-  note: "Concerto dell'Antènori Band Experience, formazione composta da coristi del Coro Antènori. Un coinvolgente viaggio musicale tra pop, rock, soul e cantautorato italiano e internazionale, arricchito da una sezione fiati, cori e numerosi solisti.Due ore di musica dal vivo, ritmi trascinanti e canzoni da ballare insieme.<br>Ingresso libero."
-  immagine: "/assets/images/evento-COVERBAND1.JPG"
 
 - data: 2026-09-27
   ora: "20:15"
