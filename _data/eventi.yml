@@ -22,3 +22,11 @@
   mappa: "https://maps.app.goo.gl/QQyC7yHwGUtyjg2a7"
   note: "Rassegna corale promossa dall'Associazione Corale CorreVoce in collaborazione con il Comune di Padova, nell'ambito della Giornata del Volontariato e del Giro d'Italia per la Pace.<br>Un concerto a più voci con cori della città e della provincia di Padova dedicato alla promozione della pace, della solidarietà e dei diritti umani."
   immagine: "/assets/images/evento-6.jpg"
+
+- data: 2026-10-24
+  ora: "20:30"
+  titolo: "Incontri Corali"
+  luogo: "Chiesa di San Giuseppe, Costa di Vittorio Veneto"
+  mappa: "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Giuseppe+Costa+di+Vittorio+Veneto"
+  note: "Concerto benefico a due cori con Gli Sconcertati e il coro Antènori.<br>Il ricavato delle offerte sarà devoluto a Medici con l’Africa CUAMM.<br>Inizio previsto alle ore 20:30/20:45."
+  immagine: "/assets/images/evento-7.jpg"
