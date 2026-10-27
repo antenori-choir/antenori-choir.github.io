@@ -14,6 +14,14 @@
 #  immagine: "/assets/images/evento-1.jpg"
 
 
+- data: 2026-11-28
+  ora: "16:30"
+  titolo: "Gli Antènori al Natale delle Meraviglie"
+  luogo: "Piazza della Libertà, San Marino"
+  mappa: "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0+San+Marino"
+  note: "Concerto nell'ambito del festival 'Il Natale delle Meraviglie' 2026-2027. Appuntamento alle 16:30 in Piazza della Libertà a San Marino."
+  immagine: "/assets/images/evento-3.jpg"
+
 
 - data: 2026-10-24
   ora: "20:30"
