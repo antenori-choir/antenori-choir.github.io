@@ -14,6 +14,14 @@
 #  immagine: "/assets/images/evento-1.jpg"
 
 
+- data: 2026-12-20
+  ora: "11:30"
+  titolo: "Concerto di Natale"
+  luogo: "Chiesa di San Giorgio dei Greci, Sestiere Castello 3422, Venezia"
+  mappa: "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Giorgio+dei+Greci+Venezia"
+  note: "Concerto di Natale del coro Gli Antènori.<br>Inizio alle ore 11:30, al termine della messa.<br>Ingresso da Calle della Madonna. Ingresso gratuito."
+  immagine: "/assets/images/evento-5.jpg"
+
 - data: 2026-11-28
   ora: "16:30"
   titolo: "Gli Antènori al Natale delle Meraviglie"
@@ -21,12 +29,3 @@
   mappa: "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0+San+Marino"
   note: "Concerto nell'ambito del festival 'Il Natale delle Meraviglie' 2026-2027. Appuntamento alle 16:30 in Piazza della Libertà a San Marino."
   immagine: "/assets/images/evento-3.jpg"
-
-
-- data: 2026-10-24
-  ora: "20:30"
-  titolo: "Incontri Corali"
-  luogo: "Chiesa di San Giuseppe, Costa di Vittorio Veneto"
-  mappa: "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Giuseppe+Costa+di+Vittorio+Veneto"
-  note: "Concerto benefico a due cori con Gli Sconcertati e il coro Antènori.<br>Il ricavato delle offerte sarà devoluto a Medici con l’Africa CUAMM.<br>Inizio previsto alle ore 20:30/20:45."
-  immagine: "/assets/images/evento-2.jpg"
