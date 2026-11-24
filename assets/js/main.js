@@ -29,6 +29,50 @@ if (toggle && menu) {
 }
 
 
+// ===== COOKIE CONSENT + GOOGLE ANALYTICS =====
+const analyticsId = 'G-HF39W1H760';
+const cookieBanner = document.getElementById('cookie-banner');
+const cookieChoice = localStorage.getItem('cookie-consent');
+
+function loadGoogleAnalytics() {
+  if (window.googleAnalyticsLoaded) return;
+
+  window.googleAnalyticsLoaded = true;
+
+  const script = document.createElement('script');
+  script.async = true;
+  script.src = `https://www.googletagmanager.com/gtag/js?id=${analyticsId}`;
+  document.head.appendChild(script);
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  window.gtag = gtag;
+  gtag('js', new Date());
+  gtag('config', analyticsId);
+}
+
+if (cookieChoice === 'accepted') {
+  loadGoogleAnalytics();
+} else if (!cookieChoice && cookieBanner) {
+  cookieBanner.hidden = false;
+}
+
+if (cookieBanner) {
+  cookieBanner.addEventListener('click', event => {
+    const button = event.target.closest('[data-cookie-choice]');
+    if (!button) return;
+
+    const choice = button.dataset.cookieChoice;
+    localStorage.setItem('cookie-consent', choice);
+    cookieBanner.hidden = true;
+
+    if (choice === 'accepted') {
+      loadGoogleAnalytics();
+    }
+  });
+}
+
+
 // ===== SMOOTH SCROLL =====
 document.querySelectorAll('a[href^="/#"], a[href^="/it/#"]').forEach(link => {
   link.addEventListener('click', function(e) {
@@ -52,6 +96,5 @@ document.querySelectorAll('a[href^="/#"], a[href^="/it/#"]').forEach(link => {
     }
   });
 });
-
 
 

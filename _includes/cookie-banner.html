@@ -1,6 +1,12 @@
-<div id="cookie-banner" class="cookie-banner">
-  <p>
-    Questo sito utilizza cookie analytics.
-    <button onclick="acceptCookies()">OK</button>
-  </p>
+<div id="cookie-banner" class="cookie-banner" hidden>
+  <button
+    type="button"
+    class="cookie-close"
+    data-cookie-choice="declined"
+    aria-label="Rifiuta cookie analytics"
+  >×</button>
+  <p>Usiamo i cookie per migliorare questo sito.</p>
+  <div class="cookie-actions">
+    <button type="button" class="cookie-accept" data-cookie-choice="accepted">Accetta</button>
+  </div>
 </div>

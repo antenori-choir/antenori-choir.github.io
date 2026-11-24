@@ -5,18 +5,27 @@
 # - Attenzione agli spazi
 # n.b. il campo immagine prende le immagini precaricate nel sito, sono in totale 7 e seguono il nome in ordine crescente (evento-1.jpg, evento-2.jpg...)
 
-- data: 2026-06-12
-  ora: "21:00"
-  titolo: "10 anni di Antènori"
-  luogo: "Chiesa di San Gaetano, Padova"
-  mappa: "https://maps.app.goo.gl/E21AcAFdprufvx3V8"
-  note: "Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero"
-  immagine: "/assets/images/evento-1.jpg"
+# data: 2026-06-12
+#  ora: "21:00"
+#  titolo: "10 anni di Antènori"
+#  luogo: "Chiesa di San Gaetano, Padova"
+#  mappa: "https://maps.app.goo.gl/E21AcAFdprufvx3V8"
+#  note: 'Concerto in occasione del decennale del coro Antènori.<br>Ingresso libero.<br><br><a href="https://coroantenori.it/it/10years/" target="_blank"><strong>*LINK AL PROGRAMMA, TESTI E TRADUZIONI*</strong></a>'
+#  immagine: "/assets/images/evento-1.jpg"
 
-- data: 2026-06-27
-  ora: "21:00"
-  titolo: "Concerto in onore a Gianni Malatesta"
-  luogo: "Convento di Santa Maria del Cengio, Isola Vicentina"
-  mappa: "https://maps.app.goo.gl/H5rjSNyxR3YptD4D9"
-  note: "Omaggio al compositore padovano Gianni Malatesta (1925-2021). Il concerto è parte di una rassegna organizzata da 'coro voci del Pasubio'.<br> Ingresso Libero"
-  immagine: "/assets/images/evento-2.jpg"
+
+- data: 2026-12-20
+  ora: "11:30"
+  titolo: "Concerto di Natale"
+  luogo: "Chiesa di San Giorgio dei Greci, Sestiere Castello 3422, Venezia"
+  mappa: "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Giorgio+dei+Greci+Venezia"
+  note: "Concerto di Natale del coro Gli Antènori.<br>Inizio alle ore 11:30, al termine della messa.<br>Ingresso da Calle della Madonna. Ingresso gratuito."
+  immagine: "/assets/images/evento-5.jpg"
+
+- data: 2026-11-28
+  ora: "16:30"
+  titolo: "Gli Antènori al Natale delle Meraviglie"
+  luogo: "Piazza della Libertà, San Marino"
+  mappa: "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0+San+Marino"
+  note: "Concerto nell'ambito del festival 'Il Natale delle Meraviglie' 2026-2027. Appuntamento alle 16:30 in Piazza della Libertà a San Marino."
+  immagine: "/assets/images/evento-3.jpg"

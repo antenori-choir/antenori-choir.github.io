@@ -38,7 +38,7 @@ layout: default
       <iframe 
         width="100%" 
         height="350" 
-        src="https://www.youtube.com/embed/DbvHxfNIcyk?rel=0&modestbranding=1"
+        src="https://www.youtube.com/embed/Wpz74tFoUWI?rel=0&modestbranding=1"
         title="Coro Antènori"
         frameborder="0" 
         allowfullscreen>

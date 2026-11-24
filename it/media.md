@@ -50,7 +50,7 @@ permalink: /it/media/
 
 <section class="media-links">
   <div class="container narrow">
-    <h3>Streaming Audio</h3>
+    <h3>Disponibili nelle piattaforme:</h3>
 
     <div class="media-grid">
 
@@ -95,15 +95,15 @@ permalink: /it/media/
 
   </div>
 
-  <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
+  <a class="media-video-card" href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
 
-  <div class="video-inner">
+  <div class="media-video-inner">
 
   <img src="/assets/images/backstage.jpg" alt="Video Coro Antènori">
 
-  <div class="overlay"></div>
+  <div class="media-video-overlay"></div>
 
-  <div class="video-text">
+  <div class="media-video-content">
         <img 
           src="/assets/images/youtube2.png" 
           alt="Play Video"
@@ -119,7 +119,7 @@ permalink: /it/media/
 <section>
   <div class="container narrow">
 
-  <h2>Audio</h2>
+  <h2>Audio Sample</h2>
     <div class="audio-block">
       <h3>La sera sper il lag</h3>
       <p>Gion Balzer Casanova, Flurin Camathias - composizione</p>
@@ -129,19 +129,29 @@ permalink: /it/media/
     </div>
 
   <div class="audio-block">
+    <h3>Mis on inimene? (Live)</h3>
+    <p>Doris Kareva (arr. Pärt Uusberg)</p>
+    <audio controls>
+      <source src="/assets/audio/mis-on-inimene.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+  <div class="audio-block">
       <h3>Il testamento del capitano</h3>
-      <p>Canto popolare alpino - arrangiamento Francesco Valandro</p>
+      <p>Canto popolare alpino (arr. Francesco Valandro)</p>
       <audio controls>
         <source src="/assets/audio/il-testamento-del-capitano.mp3" type="audio/mpeg">
       </audio>
   </div>
-<!--
-  <h3>Armonizzazioni e Registrazioni</h3>
-      <p>
-      Molte delle armonizzazioni sono a cura del direttore <a href="mailto:francescovalandro@gmail.com">Francesco Valandro</a>.<br>
-      Audio Engineering (registrazione, mix e mastering) a cura di  
-      <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
-    </p>
--->
+
+<h3>Armonizzazioni e Registrazioni</h3>
+<p>
+  Molte delle armonizzazioni eseguite sono a cura di
+  <a href="https://francescovalandro.com" target="_blank" rel="noopener noreferrer">
+    Francesco Valandro.
+    </a><br>
+  Audio engineering (registrazione, mix e mastering) a cura di
+  <a href="mailto:pietroandrigo@gmail.com">Pietro Andrigo</a>.
+</p>
   </div>
 </section>
