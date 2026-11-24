@@ -23,7 +23,7 @@ links:
     icon: spotify.svg
 
   - label: YouTube Music
-    url: https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg
+    url: https://music.youtube.com/@antenori_ita
     icon: youtubemusic.svg
 
   - label: Email
@@ -35,5 +35,5 @@ links:
     icon: band_logo3.png
 
   - label: SUPPORT US
-    url: https://antenori-choir.github.io/it/chi-siamo/#supportaci
+    url: /it/chi-siamo/#supportaci
     icon: cuore.svg

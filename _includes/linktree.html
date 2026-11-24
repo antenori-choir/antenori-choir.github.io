@@ -1,0 +1,19 @@
+<div class="linktree">
+  <div class="linktree-container">
+
+    <div class="linktree-header">
+      <img src="/assets/images/logo_nero_orizzontale.png" class="linktree-logo" alt="Antènori">
+      <p>{{ site.data.linktree.description }}</p>
+    </div>
+
+    <div class="linktree-links">
+      {% for item in site.data.linktree.links %}
+        <a href="{{ item.url }}" class="linktree-item" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/images/{{ item.icon }}" alt="">
+          <span>{{ item.label }}</span>
+        </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

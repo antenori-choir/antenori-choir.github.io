@@ -48,6 +48,17 @@ layout: default
 </section>
 
 
+{% assign oggi = 'now' | date: '%Y-%m-%d' %}
+{% assign mesi = 'Gennaio,Febbraio,Marzo,Aprile,Maggio,Giugno,Luglio,Agosto,Settembre,Ottobre,Novembre,Dicembre' | split: ',' %}
+{% assign eventi_in_programma = 0 %}
+{% for evento in site.data.eventi %}
+  {% assign data_evento = evento.data | date: '%Y-%m-%d' %}
+  {% if data_evento >= oggi %}
+    {% assign eventi_in_programma = eventi_in_programma | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% if eventi_in_programma > 0 %}
 <section id="prossimi-eventi" class="eventi">
   <div class="container narrow">
 
@@ -55,16 +66,19 @@ layout: default
 
     <div class="event-grid">
       {% for evento in site.data.eventi %}
-      
+      {% assign data_evento = evento.data | date: '%Y-%m-%d' %}
+      {% if data_evento >= oggi %}
+
       <div class="event-row">
 
         <!-- SINISTRA: immagine -->
-        <a href="{{ evento.mappa }}" target="_blank" class="event-image"
+        <a href="{{ evento.mappa }}" target="_blank" rel="noopener noreferrer" class="event-image"
            style="background-image:url('{{ evento.immagine }}')">
 
           <div class="event-date">
             <span class="day">{{ evento.data | date: "%d" }}</span>
-            <span class="month">{{ evento.data | date: "%b" }}</span>
+            {% assign mese_index = evento.data | date: "%m" | minus: 1 %}
+            <span class="month">{{ mesi[mese_index] }}</span>
           </div>
 
           <div class="event-title-overlay">
@@ -85,7 +99,7 @@ layout: default
 
           <div class="evento-luogo">
             {{ evento.luogo }} · 
-            <a href="{{ evento.mappa }}" target="_blank">mappa</a>
+            <a href="{{ evento.mappa }}" target="_blank" rel="noopener noreferrer">mappa</a>
           </div>
 
           <div class="evento-note">
@@ -95,11 +109,13 @@ layout: default
 
       </div>
 
+      {% endif %}
       {% endfor %}
     </div>
 
   </div>
 </section>
+{% endif %}
 
 <!-- SEZIONE IMMERSIVA (disabilitata)
 <section class="immersive" style="background-image:url('/assets/images/section.jpg')"></section>
@@ -111,32 +127,32 @@ layout: default
 
     <div class="media-grid">
 
-      <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" class="media-item">
+      <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/youtube.svg" alt="YouTube">
         <span>YouTube</span>
       </a>
 
-      <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="media-item">
+      <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/spotify.svg" alt="Spotify">
         <span>Spotify</span>
       </a>
 
-      <a href="https://music.youtube.com/channel/UCxxxxxxxx" target="_blank" class="media-item">
+      <a href="https://music.youtube.com/@antenori_ita" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/youtubemusic.svg" alt="YouTube Music">
         <span>YouTube Music</span>
       </a>
 
-      <a href="https://www.instagram.com/gli_antenori?igsh=dXpsdm9xaDdmYnI=" target="_blank" class="media-item">
+      <a href="https://www.instagram.com/gli_antenori?igsh=dXpsdm9xaDdmYnI=" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/instagram.svg" alt="Instagram">
         <span>Instagram</span>
       </a>
 
-      <a href="https://www.facebook.com/gliantenori/" target="_blank" class="media-item">
+      <a href="https://www.facebook.com/gliantenori/" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/facebook.svg" alt="Facebook">
         <span>Facebook</span>
       </a>
 
-      <a href="https://www.tiktok.com/@antenori_coro" target="_blank" class="media-item">
+      <a href="https://www.tiktok.com/@antenori_coro" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/tiktok.svg" alt="TikTok">
         <span>TikTok</span>
       </a>

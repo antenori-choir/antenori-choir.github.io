@@ -27,7 +27,7 @@ permalink: /it/projects/
         </div>
   </a>
 
-  <a class="project-card" href="/it/projects/">
+  <div class="project-card">
       <img src="/assets/images/rec.jpg" alt="Studio di registrazione">
       <div class="overlay"></div>
 
@@ -35,7 +35,7 @@ permalink: /it/projects/
           <h2>Recordings</h2>
           <p>Recording • Mixing • Produzione</p>
         </div>
-  </a>
+  </div>
 
   <!-- FUTURO -->
 
