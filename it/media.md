@@ -18,7 +18,7 @@ permalink: /it/media/
 
       {% for album in site.data.albums %}
         <div class="album">
-          <a href="{{ album.link }}" target="_blank">
+          <a href="{{ album.link }}" target="_blank" rel="noopener noreferrer">
             <img src="{{ album.image }}" alt="{{ album.title }}">
             <h3>{{ album.title }} ({{ album.year }})</h3>
           </a>
@@ -27,19 +27,19 @@ permalink: /it/media/
   </div>
 <!--
 <p class="cta-center buttons-inline">
-  <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="btn-minimal">
+  <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" rel="noopener noreferrer" class="btn-minimal">
     Spotify
   </a>
 
-    <a href="https://music.youtube.com/channel/UC-MpLKRqSwj9N16UQILsNjg" target="_blank" class="btn-minimal">
+    <a href="https://music.youtube.com/@antenori_ita" target="_blank" rel="noopener noreferrer" class="btn-minimal">
     YouTube Music
     </a>
 
-     <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="btn-minimal">
+     <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" rel="noopener noreferrer" class="btn-minimal">
     Apple Music
     </a>
 
-    <a href="https://tidal.com/artist/34170256" target="_blank" class="btn-minimal">
+    <a href="https://tidal.com/artist/34170256" target="_blank" rel="noopener noreferrer" class="btn-minimal">
     Tidal
     </a>
     </p>
@@ -54,22 +54,22 @@ permalink: /it/media/
 
     <div class="media-grid">
 
-      <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" class="media-item">
+      <a href="https://open.spotify.com/intl-it/artist/2gCHa0jcrMyr2EAPoE8W5P" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/spotify.svg" alt="Spotify">
         <span>Spotify</span>
       </a>
 
-      <a href="https://music.youtube.com/channel/UCxxxxxxxx" target="_blank" class="media-item">
+      <a href="https://music.youtube.com/@antenori_ita" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/youtubemusic.svg" alt="YouTube Music">
         <span>YouTube Music</span>
       </a>
 
-            <a href="https://tidal.com/artist/34170256" target="_blank" class="media-item">
+            <a href="https://tidal.com/artist/34170256" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/tidal.svg" alt="Tidal">
         <span>Tidal</span>
       </a>
 
-            <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" class="media-item">
+            <a href="https://music.apple.com/fr/artist/ant%C3%A8nori/1645025557" target="_blank" rel="noopener noreferrer" class="media-item">
         <img src="/assets/images/applemusic.svg" alt="Apple Music">
         <span>Apple Music</span>
       </a>
@@ -87,7 +87,7 @@ permalink: /it/media/
 
     <!--
     <p class="cta-center">
-      <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" class="btn-minimal">
+      <a href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" rel="noopener noreferrer" class="btn-minimal">
         YouTube Video
       </a>
     </p>
@@ -95,7 +95,7 @@ permalink: /it/media/
 
   </div>
 
-  <a class="media-video-card" href="https://www.youtube.com/@gliantenoripadova7364" target="_blank">
+  <a class="media-video-card" href="https://www.youtube.com/@gliantenoripadova7364" target="_blank" rel="noopener noreferrer">
 
   <div class="media-video-inner">
 

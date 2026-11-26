@@ -3,6 +3,8 @@
 # - Modifica i campi ( se si vuole andare a capo bisogna scrivere <br> )
 # - Mantieni la stessa struttura
 # - Attenzione agli spazi
+# - Gli eventi vengono mostrati nell'ordine in cui sono scritti qui sotto
+# - Gli eventi con data passata NON vengono mostrati automaticamente (non serve cancellarli)
 # n.b. il campo immagine prende le immagini precaricate nel sito, sono in totale 7 e seguono il nome in ordine crescente (evento-1.jpg, evento-2.jpg...)
 
 # data: 2026-06-12

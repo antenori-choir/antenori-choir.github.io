@@ -243,10 +243,10 @@ p {
 
 
   .hero {
-    height: clamp(290px, 70vw, 800px);
-    margin-top: -10px;
-
-    background-position: center 30px;
+    height: 30vh;
+    margin-top: 35px;
+    min-height: 120px;
+    background-position: top center;
   }
 
   section {
